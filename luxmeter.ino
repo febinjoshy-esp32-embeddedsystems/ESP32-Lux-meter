@@ -7,8 +7,8 @@ LiquidCrystal_I2C lcd(0x27,16,2);
 
 const int ldrpin=34;
 const float resistors=3520;// i used 16 220 ohm resistors since i dont have 10k resistor
-const float scaling_factor=350000000.0;
-const float response_curve=1.4;
+const float scaling_factor=350000000.0;//change this according to LDR
+const float response_curve=1.4;//change this according to LDR
 const int blue=13;
 const int red=12;
 const int buzzer=2;
