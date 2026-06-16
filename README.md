@@ -3,7 +3,7 @@ ESP-32 based digital lux meter using LDR. Measures light in lux and sends real-t
 
 ## FEATURES
 
-- **Non-blocking operation**: Uses `millis()` instead of `delay()`, ensuring smooth operation of sensor, LCD, buzzer, LED, and Bluetooth at the same time.
+- **Non-blocking operation**: Uses `millis()` instead of `delay()`, ensuring smooth operation of LDR, LCD, buzzer, LED, and Bluetooth at the same time.
 - **Illuminance measurement**: LDR changes resistance according to light and it is converted to Lux value.
 - **Live display**: I2C LCD shows real-time Lux value readings and status of light.
 - **Alerts**: Active buzzer and LED's turn on when paired and unpaired.
