@@ -20,8 +20,11 @@ ESP-32 based digital lux meter using LDR. Measures light in lux and sends real-t
 - Red LED + 220 ohm resistor
 - Breadboard and jumper wires
 
-## CONNECTIONS
+## Tech Stack
 
+- Arduino framework / ESP-IDF
+- BluetoothSerial.h
+- LiquidCrystal_I2C library
 
 ## AUTHOR
 
