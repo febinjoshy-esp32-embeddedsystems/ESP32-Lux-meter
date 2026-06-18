@@ -28,7 +28,8 @@ ESP-32 based digital lux meter using LDR. Measures light in lux and sends real-t
 
 ## DEMO VIDEO
 
-[!Click here to watch demo video](https://drive.google.com/file/d/140rbMysK42VHXhj8q5EIWEHKpQQDlXUv/view?usp=sharing)
+[Click here to watch demo video](https://drive.google.com/file/d/140rbMysK42VHXhj8q5EIWEHKpQQDlXUv/view?usp=sharing)
+
 **The above link shows the working of the digital lux meter**
 
 ## PROJECT IMAGES
