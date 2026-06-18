@@ -36,6 +36,9 @@ ESP-32 based digital lux meter using LDR. Measures light in lux and sends real-t
 ### HARDWARE SETUP
 ![hardware setup](luxmeter1_11zon.jpg)
 
+### SERIAL BLUETOOTH TERMINAL DATA
+![Serial bluetooth terminal data](Serial Bluetooth Terminal luxmeter.jpg)
+
 ## AUTHOR
 
 Febin Joshy | June 2026
